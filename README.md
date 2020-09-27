@@ -7,6 +7,7 @@ ___
 ## WHY?!
 
 Many research and studies have found that the SAT and the ACT are designed in a way to keep the underprivilaged students from reciving a higher education. Having information on pverty, SAT and ACT scores and participation, I decided to further explore the situation.
+
 ___
 
 ## Index:
@@ -20,8 +21,11 @@ ___
 
 ## Good Reads:
 <br/>
+
 - [Historically low ACT scores ‘a red flag for our country’](https://www.daytondailynews.com/news/historically-low-act-scores-red-flag-for-our-country/djfx9Urp719WyEaMfykyxL/)
+
 - [These four charts show how the SAT favors rich, educated families](https://www.washingtonpost.com/news/wonk/wp/2014/03/05/these-four-charts-show-how-the-sat-favors-the-rich-educated-families/) 
+
 <br/>
 ___
 
@@ -33,10 +37,11 @@ Data gathered are from
 - [ACT 2017](https://www.act.org/content/dam/act/unsecured/documents/cccr2017/ACT_2017-Average_Scores_by_State.pdf)
 - [ACT 2018](https://www.act.org/content/dam/act/unsecured/documents/cccr2018/Average-Scores-by-State.pdf)
 - [Poverty Census Data](https://www.census.gov/data/tables/2019/demo/income-poverty/p60-266.html)
+
 <br/>
 
 
-||Feature|Type|Dataset|Description|
+|Feature|Type|Dataset|Description|
 |---|---|---|---|
 |State|string|All|One of 50 States + Washington, D.C.| 
 |sat_partic_17|float|SAT '17|% of students participating in the SAT in 2017|
@@ -64,7 +69,9 @@ Data gathered are from
 ___
 
 ## Preprocessing
-<br/> There were quite a bit of mistakes in the data that had to be fixed by referring to the original datasets. 
+<br/>
+
+There were quite a bit of mistakes in the data that had to be fixed by referring to the original datasets. 
 Furthermore, I had to combine all the datasets to create a comprehensive data frame to analyze. 
 you can find that in [this notebook]()
 
