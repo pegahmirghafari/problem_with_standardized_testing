@@ -27,10 +27,12 @@ ___
 ## Data Dictionary:
 <br/>
 Data gathered are from 
+
 - [SAT](https://ipsr.ku.edu/ksdata/ksah/education/6ed16.pdf)
 - [ACT 2017](https://www.act.org/content/dam/act/unsecured/documents/cccr2017/ACT_2017-Average_Scores_by_State.pdf)
 - [ACT 2018](https://www.act.org/content/dam/act/unsecured/documents/cccr2018/Average-Scores-by-State.pdf)
 - [Poverty Census Data](https://www.census.gov/data/tables/2019/demo/income-poverty/p60-266.html)
+<br/>
 
 ||Feature|Type|Dataset|Description|
 |---|---|---|---|
