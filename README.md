@@ -70,14 +70,14 @@ Data gathered are from
 
 There were quite a bit of mistakes in the data that had to be fixed by referring to the original datasets. 
 Furthermore, I had to combine all the datasets to create a comprehensive data frame to analyze. 
-you can find that in [this notebook]()
+you can find that in [this notebook](https://github.com/pegahmirghafari/problem_with_standardized_testing/blob/main/01_data_cleaning.ipynb)
 
 <br/> 
 
 ## Exploratory Data Analysis
 <br/> 
 
-there is an indepth data analysis of the dataset in [this notebook]() 
+there is an indepth data analysis of the dataset in [this notebook](https://github.com/pegahmirghafari/problem_with_standardized_testing/blob/main/02_eda.ipynb) 
 <br/> 
  
 
