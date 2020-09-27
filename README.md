@@ -17,7 +17,7 @@ ___
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Conclusion](#Conclusion)
 
-___
+<br/> 
 
 ## Good Reads:
 <br/>
@@ -27,7 +27,6 @@ ___
 - [These four charts show how the SAT favors rich, educated families](https://www.washingtonpost.com/news/wonk/wp/2014/03/05/these-four-charts-show-how-the-sat-favors-the-rich-educated-families/) 
 
 <br/>
-___
 
 ## Data Dictionary:
 <br/>
@@ -39,7 +38,6 @@ Data gathered are from
 - [Poverty Census Data](https://www.census.gov/data/tables/2019/demo/income-poverty/p60-266.html)
 
 <br/>
-
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
@@ -66,7 +64,6 @@ Data gathered are from
 |poverty_above_median|bool|Generated Feature|True if poverty index is below national median|
 
 <br/> 
-___
 
 ## Preprocessing
 <br/>
@@ -76,7 +73,6 @@ Furthermore, I had to combine all the datasets to create a comprehensive data fr
 you can find that in [this notebook]()
 
 <br/> 
-___
 
 ## Exploratory Data Analysis
 <br/> 
@@ -84,7 +80,6 @@ ___
 there is an indepth data analysis of the dataset in [this notebook]() 
 <br/> 
  
-___
 
 ## Conclusion 
 <br/> 
