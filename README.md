@@ -22,6 +22,7 @@ ___
 <br/>
 - [Historically low ACT scores ‘a red flag for our country’](https://www.daytondailynews.com/news/historically-low-act-scores-red-flag-for-our-country/djfx9Urp719WyEaMfykyxL/)
 - [These four charts show how the SAT favors rich, educated families](https://www.washingtonpost.com/news/wonk/wp/2014/03/05/these-four-charts-show-how-the-sat-favors-the-rich-educated-families/) 
+<br/>
 ___
 
 ## Data Dictionary:
@@ -33,6 +34,7 @@ Data gathered are from
 - [ACT 2018](https://www.act.org/content/dam/act/unsecured/documents/cccr2018/Average-Scores-by-State.pdf)
 - [Poverty Census Data](https://www.census.gov/data/tables/2019/demo/income-poverty/p60-266.html)
 <br/>
+
 
 ||Feature|Type|Dataset|Description|
 |---|---|---|---|
@@ -60,6 +62,7 @@ Data gathered are from
 
 <br/> 
 ___
+
 ## Preprocessing
 <br/> There were quite a bit of mistakes in the data that had to be fixed by referring to the original datasets. 
 Furthermore, I had to combine all the datasets to create a comprehensive data frame to analyze. 
@@ -69,12 +72,12 @@ you can find that in [this notebook]()
 ___
 
 ## Exploratory Data Analysis
-
 <br/> 
 
 there is an indepth data analysis of the dataset in [this notebook]() 
 <br/> 
-
+ 
+___
 
 ## Conclusion 
 <br/> 
